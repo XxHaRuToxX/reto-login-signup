@@ -1,4 +1,4 @@
-# RETO LOGIN Y SIGNUP CONSUMIENDO API HECHO EN SRPIN BOOT
+# RETO LOGIN Y SIGNUP CONSUMIENDO API HECHO EN SPRPIN BOOT
 
 _La solucion de este reto es para tentar a un trabajo_
 
@@ -41,7 +41,7 @@ _Finaliza cuando ya todo salga OK_
 
 _Se explicara el levantamiento del proyecto con ANDROID STUDIO_
 
-### Cuando ANDRID STUDIO esta abierto 🔩
+### Cuando ANDROID STUDIO esta abierto 🔩
 
 _Explicación_
 
