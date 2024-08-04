@@ -53,7 +53,9 @@ _Explicación_
 
 ### Y las pruebas se recomiendan hacerlo para mejor performance en un dispositivo Físico. ⌨️
 ### Aqui se tiene algunas imágenes del aplicativo. ⌨️
-![image](https://github.com/user-attachments/assets/988ad2ed-c6b1-4319-86a5-10f4ccca517d)
 
+![image](https://github.com/user-attachments/assets/817198d4-e9fe-4796-9355-c45fdafe8127)
+
+![image](https://github.com/user-attachments/assets/988ad2ed-c6b1-4319-86a5-10f4ccca517d)
 
 ⌨️ con ❤️ por [ELVIS SANCHEZ](https://github.com/XxHaRuToxX) 😊
